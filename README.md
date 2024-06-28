@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashudata
-- 👀 I’m interested in Finance related fields with applied Data analysis
-- 🌱 I’m currently learning Power BI, Tableu
-- 💞️ I’m looking to collaborate on working culture in MNCs
+- 👀 I’m interested in Data.
+- 🌱 I'm a certified Data Science Professional, buliding projects.
+- 💞️ I’m looking forward to work in Data Science domain.
 - 📫 How to reach me ... E-mail : www.aaronashutosh33@gmail.com
 
 <!---
