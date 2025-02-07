@@ -14,5 +14,4 @@ I'm a **Data Analyst** passionate about extracting insights from data, analyzing
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-1F77B4?style=flat-square&logoColor=white" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   </p>
