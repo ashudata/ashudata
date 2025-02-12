@@ -18,7 +18,7 @@ I'm a **Data Analyst** passionate about extracting insights from data, analyzing
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-1F77B4?style=flat-square&logoColor=white" />
   </p>
 
-## Let's get connected :
+## 📎Let's get connected :
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronashutosh33@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-bhumij-16352a154)
 
