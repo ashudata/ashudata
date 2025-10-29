@@ -3,7 +3,7 @@
 👋 Hi there, I'm Ashutosh! 
 ![](https://komarev.com/ghpvc/?username=ashudata&color=blue)
 
-I'm a **Data Analyst** passionate about extracting insights from data, analyzing market trends, and building impactful dashboards. My work primarily revolves around **SQL, Python, and Power BI**, helping businesses make data-driven decisions.  
+I'm a **Data Scientist** passionate about extracting insights from data, analyzing market trends, and building impactful dashboards. My work primarily revolves around **SQL, Python, and Power BI**, helping businesses make data-driven decisions.  
 
 ---
 
